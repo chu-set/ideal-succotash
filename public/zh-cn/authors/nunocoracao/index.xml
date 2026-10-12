@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuno Coração on Blowfish</title>
+    <link>http://localhost:1313/zh-cn/authors/nunocoracao/</link>
+    <description>Recent content in Nuno Coração on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/authors/nunocoracao/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>多创作者模式</title>
+      <link>http://localhost:1313/zh-cn/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh-cn/docs/multi-author/</guid>
+      <description>&lt;p&gt;一个网站会有多个创作者共同贡献内容，所以需要再整个网站中默认使用多创作者。对于这种情况，Blowfish 允许用户使用多创作者功能拓展创作者列表。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
+    </item>
+    
+    <item>
+      <title>将现有 Hugo 网站升级到 Blowfish 3</title>
+      <link>http://localhost:1313/zh-cn/guides/202608-upgrade-to-blowfish-v3/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh-cn/guides/202608-upgrade-to-blowfish-v3/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish 3 向后兼容。现有网站无需重写配置或内容即可升级。&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;升级前准备&#xA;    &lt;div id=&#34;升级前准备&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8d%87%e7%ba%a7%e5%89%8d%e5%87%86%e5%a4%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;提交当前网站的更改，并确保 Hugo 版本处于 Blowfish 声明的支持范围内。如果主题目录中有自定义文件，请先将它们移至网站的 &lt;code&gt;assets/&lt;/code&gt; 或 &lt;code&gt;layouts/&lt;/code&gt; 目录，以免升级时被覆盖。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/202608-upgrade-to-blowfish-v3/featured.png" />
+    </item>
+    
+    <item>
+      <title>使用 Blowfish和 Hugo 构建你的主页</title>
+      <link>http://localhost:1313/zh-cn/guides/202310-blowfish-tutorial/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh-cn/guides/202310-blowfish-tutorial/</guid>
+      <description>一年前我创建了 Blowfish，这是一个为了打造我的个人主页而精心设计的 Hugo 主题。我决定将其作为一个开源项目。直到今天，Blowfish 已经变成了一个蓬勃发展的开源项目，在 GitHub 上拥有超过900个 star 和数百名用户。在本教程中，我将向你展示如何搭建并在几分钟内让你的网站运行起来。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>多作者</title>
+      <link>http://localhost:1313/zh-cn/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh-cn/samples/multiple-authors/</guid>
+      <description>如何使用多个作者的简单示例。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/samples/multiple-authors/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

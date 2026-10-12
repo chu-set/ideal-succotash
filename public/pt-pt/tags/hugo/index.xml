@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Blowfish</title>
+    <link>http://localhost:1313/pt-pt/tags/hugo/</link>
+    <description>Recent content in Hugo on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-pt/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Atualize um site Hugo existente para o Blowfish 3</title>
+      <link>http://localhost:1313/pt-pt/guides/202608-upgrade-to-blowfish-v3/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/guides/202608-upgrade-to-blowfish-v3/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  O Blowfish 3 é retrocompatível. Os sites existentes podem ser atualizados sem reescrever a configuração ou o conteúdo.&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Antes de atualizar&#xA;    &lt;div id=&#34;antes-de-atualizar&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#antes-de-atualizar&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Faça commit do estado atual do seu site e certifique-se de que a versão do Hugo se encontra dentro do intervalo declarado pelo Blowfish. Se tiver ficheiros personalizados dentro do diretório do tema, mova-os primeiro para os diretórios &lt;code&gt;assets/&lt;/code&gt; ou &lt;code&gt;layouts/&lt;/code&gt; do seu site para que as atualizações não os substituam.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/202608-upgrade-to-blowfish-v3/featured.png" />
+    </item>
+    
+    <item>
+      <title>Construa a sua página inicial usando Blowfish e Hugo</title>
+      <link>http://localhost:1313/pt-pt/guides/202310-blowfish-tutorial/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/guides/202310-blowfish-tutorial/</guid>
+      <description>Há apenas um ano, criei o Blowfish, um tema Hugo criado para construir a minha visão única para a minha página inicial pessoal. Também decidi torná-lo um projeto de código aberto. Hoje, o Blowfish transformou-se num próspero projeto de código aberto com mais de 600 estrelas no GitHub e centenas de utilizadores. Neste tutorial, mostrarei como começar e ter o seu site a funcionar em alguns minutos.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

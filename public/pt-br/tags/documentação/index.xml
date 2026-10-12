@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentação on Blowfish</title>
+    <link>http://localhost:1313/pt-br/tags/documenta%C3%A7%C3%A3o/</link>
+    <description>Recent content in Documentação on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/documenta%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bem-vindo ao Blowfish</title>
+      <link>http://localhost:1313/pt-br/docs/welcome/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/welcome/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  O Blowfish 3 é um tema Hugo moderno para blogs, documentação, portfólios e sites que não cabem em um modelo rígido.&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;Crie um novo site com &lt;code&gt;npx blowfish-tools new &amp;lt;site&amp;gt;&lt;/code&gt; e siga o &lt;a href=&#34;http://localhost:1313/pt-br/docs/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;guia de instalação&lt;/a&gt;. Sites Blowfish existentes podem migrar para a v3 sem mudanças incompatíveis na configuração.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Crie o site que você imagina&#xA;    &lt;div id=&#34;crie-o-site-que-você-imagina&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#crie-o-site-que-voc%c3%aa-imagina&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O Blowfish oferece uma base sólida sem determinar o resultado. Escolha layouts de página inicial de perfil, landing, hero, cartões ou fundo. Defina cores, tipografia, navegação, modo escuro e apresentação de artigos na configuração do site. Use front matter quando uma página precisar ser diferente.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Instalação</title>
+      <link>http://localhost:1313/pt-br/docs/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/installation/</guid>
+      <description>&lt;p&gt;Simplesmente siga o procedimento padrão do Hugo &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Início Rápido&lt;/a&gt; para começar rapidamente.&lt;/p&gt;&#xA;&lt;p&gt;Instruções detalhadas de instalação podem ser encontradas abaixo. Instruções para &lt;a href=&#34;http://localhost:1313/pt-br/docs/installation/#instalando-atualiza%c3%a7%c3%b5es&#34; &gt;atualizar o tema&lt;/a&gt; também estão disponíveis.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Skill para agentes&#xA;    &lt;div id=&#34;skill-para-agentes&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#skill-para-agentes&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O Blowfish inclui uma &lt;a href=&#34;https://github.com/nunocoracao/blowfish/tree/main/.claude/skills/blowfish&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;skill para agentes&lt;/a&gt; que ensina agentes de programação com IA — como o Claude Code — a instalar, configurar e criar sites com o tema. Se você usa um agente para trabalhar no seu site, instale a skill para que ele conheça os arquivos de configuração, os layouts, o front matter e os shortcodes do Blowfish.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Primeiros Passos</title>
+      <link>http://localhost:1313/pt-br/docs/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/getting-started/</guid>
+      <description>&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;Esta seção assume que você já &lt;a href=&#34;http://localhost:1313/pt-br/docs/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;instalou o tema Blowfish&lt;/a&gt;.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&#xA;&lt;path fill=&#34;currentColor&#34; d=&#34;M234.7 42.7L197 56.8c-3 1.1-5 4-5 7.2s2 6.1 5 7.2l37.7 14.1L248.8 123c1.1 3 4 5 7.2 5s6.1-2 7.2-5l14.1-37.7L315 71.2c3-1.1 5-4 5-7.2s-2-6.1-5-7.2L277.3 42.7 263.2 5c-1.1-3-4-5-7.2-5s-6.1 2-7.2 5L234.7 42.7zM46.1 395.4c-18.7 18.7-18.7 49.1 0 67.9l34.6 34.6c18.7 18.7 49.1 18.7 67.9 0L529.9 116.5c18.7-18.7 18.7-49.1 0-67.9L495.3 14.1c-18.7-18.7-49.1-18.7-67.9 0L46.1 395.4zM484.6 82.6l-105 105-23.3-23.3 105-105 23.3 23.3zM7.5 117.2C3 118.9 0 123.2 0 128s3 9.1 7.5 10.8L64 160l21.2 56.5c1.7 4.5 6 7.5 10.8 7.5s9.1-3 10.8-7.5L128 160l56.5-21.2c4.5-1.7 7.5-6 7.5-10.8s-3-9.1-7.5-10.8L128 96 106.8 39.5C105.1 35 100.8 32 96 32s-9.1 3-10.8 7.5L64 96 7.5 117.2zm352 256c-4.5 1.7-7.5 6-7.5 10.8s3 9.1 7.5 10.8L416 416l21.2 56.5c1.7 4.5 6 7.5 10.8 7.5s9.1-3 10.8-7.5L480 416l56.5-21.2c4.5-1.7 7.5-6 7.5-10.8s-3-9.1-7.5-10.8L480 352l-21.2-56.5c-1.7-4.5-6-7.5-10.8-7.5s-9.1 3-10.8 7.5L416 352l-56.5 21.2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;Trabalha com um agente de programação com IA? O Blowfish inclui uma &lt;strong&gt;skill para agentes&lt;/strong&gt; que ensina agentes como o Claude Code a instalar, configurar e trabalhar com o tema — veja a &lt;a href=&#34;http://localhost:1313/pt-br/docs/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;página de instalação&lt;/a&gt; para configurá-la.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Os arquivos de configuração que acompanham o Blowfish contêm todas as configurações possíveis que o tema reconhece. Por padrão, muitas delas estão comentadas, mas você pode simplesmente descomentá-las para ativar ou alterar uma funcionalidade específica.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Configuração</title>
+      <link>http://localhost:1313/pt-br/docs/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/configuration/</guid>
+      <description>&lt;p&gt;O Blowfish é um tema altamente personalizável e usa alguns dos recursos mais recentes do Hugo para simplificar sua configuração.&lt;/p&gt;&#xA;&lt;p&gt;O tema vem com uma configuração padrão que permite você começar com um blog básico ou site estático.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Layout da Página Inicial</title>
+      <link>http://localhost:1313/pt-br/docs/homepage-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/homepage-layout/</guid>
+      <description>&lt;p&gt;O Blowfish fornece layouts flexíveis de página inicial com configurações para ajustar cada design. Alternativamente, você também pode fornecer seu próprio modelo e ter controle total sobre o conteúdo da página inicial.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/pt-br/docs/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/shortcodes/</guid>
+      <description>&lt;p&gt;Além de todos os &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;shortcodes padrão do Hugo&lt;/a&gt;, o Blowfish adiciona alguns extras para funcionalidades adicionais.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Accordion&#xA;    &lt;div id=&#34;accordion&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#accordion&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;accordion&lt;/code&gt; cria um conjunto de painéis recolhíveis. Use o sub-shortcode &lt;code&gt;accordionItem&lt;/code&gt; para definir cada item. Você pode controlar se vários itens podem ficar abertos ao mesmo tempo usando o parâmetro &lt;code&gt;mode&lt;/code&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>http://localhost:1313/pt-br/docs/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/front-matter/</guid>
+      <description>&lt;p&gt;Além dos &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;parâmetros de front matter padrão do Hugo&lt;/a&gt;, o Blowfish adiciona várias opções adicionais para personalizar a apresentação de artigos individuais. Todos os parâmetros de front matter do tema disponíveis estão listados abaixo.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Múltiplos autores</title>
+      <link>http://localhost:1313/pt-br/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/multi-author/</guid>
+      <description>&lt;p&gt;Alguns sites têm mais de um autor contribuindo com conteúdo e, portanto, requerem mais de um único autor padrão para todo o site. Para esses casos de uso, o Blowfish permite aos usuários estender a lista de autores usando o recurso de múltiplos autores.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Partials</title>
+      <link>http://localhost:1313/pt-br/docs/partials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/partials/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Analytics&#xA;    &lt;div id=&#34;analytics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#analytics&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O Blowfish fornece suporte integrado para Fathom Analytics, Google Analytics e Umami Analytics. O Fathom é uma alternativa paga ao Google Analytics que respeita a privacidade do usuário.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/partials/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Miniaturas</title>
+      <link>http://localhost:1313/pt-br/docs/thumbnails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/thumbnails/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Miniaturas&#xA;    &lt;div id=&#34;miniaturas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#miniaturas&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O Blowfish foi aprimorado para facilitar adicionar suporte visual às suas postagens. Para fazer isso, você só precisa colocar um arquivo de imagem (quase todos os formatos são suportados, mas recomendamos &lt;code&gt;.png&lt;/code&gt; ou &lt;code&gt;.jpg&lt;/code&gt;) que comece com &lt;code&gt;feature*&lt;/code&gt; dentro do diretório principal do seu artigo, como mostrado no exemplo abaixo.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Séries</title>
+      <link>http://localhost:1313/pt-br/docs/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/series/</guid>
+      <description>&lt;p&gt;O Blowfish fornece um recurso para agrupar um conjunto de artigos sob uma &amp;ldquo;série&amp;rdquo;. Colocar um artigo em uma série exibirá o restante dos artigos da série em cada página individual e fornecerá uma maneira rápida de navegar entre eles. Você pode ver um exemplo disso acima.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Personalização avançada</title>
+      <link>http://localhost:1313/pt-br/docs/advanced-customisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/advanced-customisation/</guid>
+      <description>&lt;p&gt;Existem muitas maneiras de fazer alterações avançadas no Blowfish. Leia abaixo para saber mais sobre o que pode ser personalizado e a melhor forma de alcançar o resultado desejado.&lt;/p&gt;&#xA;&lt;p&gt;Se precisar de mais orientação, poste suas perguntas nas &lt;a href=&#34;https://github.com/nunocoracao/blowfish/discussions&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;GitHub Discussions&lt;/a&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Hospedagem e implantação</title>
+      <link>http://localhost:1313/pt-br/docs/hosting-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/hosting-deployment/</guid>
+      <description>&lt;p&gt;Existem muitas formas de implantar seu site Hugo construído com Blowfish. O tema é projetado para ser flexível em quase qualquer cenário de implantação.&lt;/p&gt;&#xA;&lt;p&gt;O Blowfish usa URLs relativas em todo o tema. Isso permite que sites sejam facilmente implantados em subpastas e hosts como GitHub Pages. Normalmente não há configuração especial necessária, desde que o parâmetro &lt;code&gt;baseURL&lt;/code&gt; tenha sido configurado no arquivo &lt;code&gt;hugo.toml&lt;/code&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
