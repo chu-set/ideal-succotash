@@ -939,13 +939,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/migration/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/migration/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/migration/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/migration/"
     />
     <xhtml:link
       rel="alternate"
@@ -1057,13 +1057,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/series/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/series/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/series/"
+      hreflang="es"
+      href="http://localhost:1313/es/series/"
     />
     <xhtml:link
       rel="alternate"
@@ -1516,13 +1516,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/categories/"
+      hreflang="es"
+      href="http://localhost:1313/es/categories/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/categories/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -1608,13 +1608,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/tutorial/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/tutorial/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/tutorial/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/tutorial/"
     />
     <xhtml:link
       rel="alternate"
@@ -2253,13 +2253,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/markdown/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/markdown/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
@@ -2304,13 +2304,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/gist/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/gist/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
@@ -2376,13 +2376,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/twitter/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/twitter/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
@@ -2478,13 +2478,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/youtube/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/youtube/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
@@ -2632,13 +2632,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/katex/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/katex/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
@@ -2976,13 +2976,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/emoji/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/emoji/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
@@ -3159,13 +3159,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/analytics/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/analytics/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
@@ -3399,13 +3399,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/front-matter/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/front-matter/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
@@ -3839,13 +3839,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/render/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/render/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/render/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/render/"
     />
     <xhtml:link
       rel="alternate"

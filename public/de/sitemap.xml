@@ -754,6 +754,56 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/de/projects/firebase-views/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/fr/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/it/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/pt-pt/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/projects/firebase-views/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/de/guides/</loc>
     <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -1098,13 +1148,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/hugo/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/hugo/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/hugo/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/hugo/"
     />
     <xhtml:link
       rel="alternate"
@@ -1149,13 +1199,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/migration/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/migration/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/migration/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/migration/"
     />
     <xhtml:link
       rel="alternate"
@@ -1257,13 +1307,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/series/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/series/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/series/"
+      hreflang="es"
+      href="http://localhost:1313/es/series/"
     />
     <xhtml:link
       rel="alternate"
@@ -1461,13 +1511,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/categories/"
+      hreflang="es"
+      href="http://localhost:1313/es/categories/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/categories/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -2168,13 +2218,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/markdown/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/markdown/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
@@ -2327,13 +2377,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/twitter/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/twitter/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
@@ -2378,13 +2428,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/vimeo/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/vimeo/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
@@ -2734,13 +2784,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/mermaid/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/mermaid/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
@@ -3003,13 +3053,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/favicons/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/favicons/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
@@ -3148,13 +3198,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/front-matter/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/front-matter/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
@@ -3418,13 +3468,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/lead/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/lead/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
@@ -3503,13 +3553,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/netlify/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/netlify/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
@@ -3578,6 +3628,56 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/de/projects/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/fr/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/it/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/pt-pt/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/projects/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/de/tags/render/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -3603,13 +3703,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/render/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/render/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/render/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/render/"
     />
     <xhtml:link
       rel="alternate"
