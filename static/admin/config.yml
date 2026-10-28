@@ -4,6 +4,9 @@ backend:
   name: github
   repo: chu-set/ideal-succotash
 
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
 collections:
   - name: posts
     label: Posts
