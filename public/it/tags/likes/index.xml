@@ -19,5 +19,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/firebase-views/featured.svg" />
     </item>
     
+    <item>
+      <title>Firebase: Views &amp; Likes</title>
+      <link>http://localhost:1313/it/projects/firebase-views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/projects/firebase-views/</guid>
+      <description>&lt;p&gt;In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase. This will allow you to use the views feature across lists and posts.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/firebase-views/featured.svg" />
+    </item>
+    
   </channel>
 </rss>

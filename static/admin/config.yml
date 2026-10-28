@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+
+backend:
+  name: github
+  repo: chu-set/ideal-succotash
+
+collections:
+  - name: posts
+    label: Posts
+    folder: content/posts
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: date, label: Date, widget: datetime }
+      - { name: draft, label: Draft, widget: boolean, default: true }
+      - { name: description, label: Description, required: false }
+      - { name: tags, label: Tags, widget: list, required: false }
+      - { name: body, label: Body, widget: markdown }

@@ -36,9 +36,3 @@ Explore real sites, community contributions, and patterns that hold up in produc
 Blowfish ships an agent skill that teaches Claude Code and other coding agents how to install, configure, and build with the theme.
 {{< /feature >}}
 {{< /feature-grid >}}
-
-{{< alert >}}
-**Blowfish v3.5 is available.** Start a new site with `npx blowfish-tools new <site>` or [upgrade an existing site]({{< ref "guides/202608-upgrade-to-blowfish-v3" >}}).
-
-**Working with a coding agent?** In Claude Code, run `/plugin marketplace add nunocoracao/blowfish`, then `/plugin install blowfish@blowfish`. For another agent that reads project skills, copy the [`blowfish` skill folder](https://github.com/nunocoracao/blowfish/tree/main/.claude/skills/blowfish) into your site at `.claude/skills/blowfish/`.
-{{< /alert >}}

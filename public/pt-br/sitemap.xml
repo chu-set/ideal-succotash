@@ -754,6 +754,51 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/pt-br/projects/firebase-views/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/it/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/pt-pt/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/projects/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/projects/firebase-views/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/pt-br/guides/202608-upgrade-to-blowfish-v3/</loc>
     <lastmod>2026-08-30T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -3660,6 +3705,51 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/pt-br/tags/partials/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/projects/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/it/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/pt-pt/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/projects/"
     />
   </url>
   <url>
